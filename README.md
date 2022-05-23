@@ -47,7 +47,23 @@ Representa con la palabra "mas" o el simbolo "+"'
 'Para realizar la suma
 Utilizamos la palabra "suma" o el simbolo"+"'
 
-#### Salida del programa N1
+#### Salida del programa 
 'if(PJ_amasPJ_x)'
 
 'if(PJ_a+PJ_x)'
+
+### Calculo de la Edad 
+#### Descripcion del programa 
+'Ingresamos las fechas actuales 
+Y despues ingresamos las fechas de nacimiento
+de esto obtenemos la edad de la persona'
+
+### Funcionalidad del programa 
+'Para calcular ingresamos año,mes,dia actuales
+Despues año,mes y dia de nacimiento y obtenemos
+La edad exacta de lapersona'
+
+#### Salida del programa N1
+'if(PJ_fechAct < PJ_fechNac)'
+
+'if(PJ_mesAct < PJ_mesNac)'

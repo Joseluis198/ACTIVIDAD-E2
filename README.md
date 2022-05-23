@@ -1,5 +1,5 @@
-###ACTIVIDAD-E2
-###Programas c++ de Jose Luis Proaño
+#ACTIVIDAD-E2
+#Programas c++ de Jose Luis Proaño
 ======================================
 ###Informacion del autor
 'Estudiante Jose Luis Proaño'

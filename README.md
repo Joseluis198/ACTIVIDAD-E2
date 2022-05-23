@@ -1,7 +1,7 @@
-# ACTIVIDAD-E2
-##Programas de c++ DE Jose Luis Proaño
+###ACTIVIDAD-E2
+###Programas c++ de Jose Luis Proaño
 ======================================
-## Informacion del autor
+###Informacion del autor
 'Estudiante Jose Luis Proaño'
 'Direccion: Tonsupa'
 'Celula: 0980173180'

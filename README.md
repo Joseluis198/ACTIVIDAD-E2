@@ -19,12 +19,17 @@
 ###  5.-CUENTA MONEDAS
 ======================================
 
-#### 1.-DESCRIPCION DEL PROGRAMA
+#### Descripcion del programa N1
 'Comparamos los valores de 2 numeros para determinar
 Cual de los numeros es mayor o igual'
 
-### 1.-Funcionalidad
+### Funcionalidad del programa N1
 'Para comprobar si un numero es mayor que otro 
 Utilizamos este simbolo ">"'
+
 'Para comprobar si son iguales utilizamos este 
 Simbolo de doble igual "=="'
+
+#### Salida del programa N1
+'if(PJ_x==PJ_y)'
+'if(PJ_x>PJ_y)'

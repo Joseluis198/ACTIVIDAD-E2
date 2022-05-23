@@ -17,20 +17,37 @@
 ###  3.-CALCULO DE LA EDAD 
 ###  4.-PUNTO DE VENTA 
 ###  5.-CUENTA MONEDAS
-======================================
-
-#### Descripcion del programa N1
+===================================
+### Compara dos Numeros
+#### Descripcion del programa 
 'Comparamos los valores de 2 numeros para determinar
 Cual de los numeros es mayor o igual'
 
-### Funcionalidad del programa N1
+### Funcionalidad del programa 
 'Para comprobar si un numero es mayor que otro 
 Utilizamos este simbolo ">"'
 
 'Para comprobar si son iguales utilizamos este 
 Simbolo de doble igual "=="'
 
-#### Salida del programa N1
+#### Salida del programa 
 'if(PJ_x==PJ_y)'
 
 'if(PJ_x>PJ_y)'
+=====================================
+
+### Suma de Varios Numeros
+#### Descripcion del programa 
+'La suma es la operación matemática que resulta
+Al reunir en una sola varias canidades.
+También se conoce como adición suma o total y se 
+Representa con la palabra "mas" o el simbolo "+"'
+
+### Funcionalidad del programa 
+'Para realizar la suma
+Utilizamos la palabra "suma" o el simbolo"+"'
+
+#### Salida del programa N1
+'if(PJ_amasPJ_x)'
+
+'if(PJ_a+PJ_x)'

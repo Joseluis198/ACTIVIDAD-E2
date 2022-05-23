@@ -32,4 +32,5 @@ Simbolo de doble igual "=="'
 
 #### Salida del programa N1
 'if(PJ_x==PJ_y)'
+
 'if(PJ_x>PJ_y)'

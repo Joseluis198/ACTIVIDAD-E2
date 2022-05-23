@@ -103,4 +103,4 @@ Resultado de 0.35 ctvs
 #### Salida del programa N1
 `if(PJ_x==0,10)`
 `if(PJ_n==0,25)`
-`while(PJ_c<PJ_n)'
+`while(PJ_c<PJ_n)`

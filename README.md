@@ -2,9 +2,13 @@
 #Programas c++ de Jose Luis Proaño
 ======================================
 ###Informacion del autor
+
 'Estudiante Jose Luis Proaño'
+
 'Direccion: Tonsupa'
+
 'Celula: 0980173180'
+
 'Correo: jose.proano.tenorio@utelvt.edu.ec'
 
 ##   PROGRAMAS

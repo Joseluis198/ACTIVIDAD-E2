@@ -78,9 +78,29 @@ Calculara el iva, descuento y el total a pagar`
 De los productos y se calcula el iva y el descuento
 Y se calcula el valor total a pagar`
 
-#### Salida del programa N1
+#### Salida del programa 
 `while(PJ_c<PJ_n)`
+
 `PJ_vb=PJ_a;`
 `PJ_viva=PJ_vb*0,12;`
 `PJ_vdesc=PJ_vb*0,10;`
 `PJ_vf=PJ_vb+PJ_viva-PJ_vdesc;`
+
+### Cuenta Monedas
+#### Descripcion del programa 
+`Declaramos las monedas que deseamos contar de 0.10 
+Y de 0.25 ctvs despues ingresamos las monedas y el
+Programa las va a sumar y a clasificar`
+
+### Funcionalidad del programa N1
+`Declaramos las denominaciones de 0.10 y 0.25ctvs
+Ingresamos cantidad de mondas 2
+Ingresamos 1 moneda de 0.10
+Ingresamos 1 moneda de 0.25
+Resultado de 0.35 ctvs
+1 moneda de 0.10 y 1 moneda de 0.25`
+
+#### Salida del programa N1
+`if(PJ_x==0,10)`
+`if(PJ_n==0,25)`
+`while(PJ_c<PJ_n)'

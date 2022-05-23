@@ -34,7 +34,7 @@ Simbolo de doble igual "=="'
 'if(PJ_x==PJ_y)'
 
 'if(PJ_x>PJ_y)'
-=====================================
+
 
 ### Suma de Varios Numeros
 #### Descripcion del programa 

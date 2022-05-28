@@ -107,10 +107,14 @@ Resultado de 0.35 ctvs
 
 ### Instalacion
 ### Descargar Repositorio
+
 `git clone https://github.com/leonluis29/Fundamentos.git`
+
 `cd "Nombre del archivo"`
 
 ### Compilar y Ejecutar
+
 `g++ "Nombre del archivo.cpp" -o "Nombre del archivo"`
+
 `Ejecutar.  ./"Nombre del Archivo"`
 
